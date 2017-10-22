@@ -1,0 +1,20 @@
+HBox.loadSaveMenu{
+-fx-padding: 20 20 20 45 ;
+-fx-alignment: CENTER_LEFT;
+-fx-spacing: 20;
+}
+TextArea.textAreaMenu{
+  -fx-min-width: 600px;
+  -fx-min-height: 300px;
+}
+HBox.startPage{
+-fx-alignment: CENTER;
+}
+HBox.hboxFibonacci{
+-fx-padding: 20 20 20 45 ;
+-fx-spacing: 20;
+-fx-alignment: CENTER_LEFT;
+}
+TextField.loadSaveMenu{
+
+}
